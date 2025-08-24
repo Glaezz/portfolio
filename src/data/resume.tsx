@@ -238,7 +238,7 @@ export const DATA = {
       description:
         "Developed a web application about local tourism in Surabaya, Indonesia. The application allows users to explore various historical sites, view details, and get directions.",
       image:
-        "/competition/lks.png",
+        "/competition/lks.png", 
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
       links: [],
     },
