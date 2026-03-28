@@ -8,9 +8,9 @@ export const DATA = {
   location: "Surabaya, Indonesia",
   locationLink: "https://www.google.com/maps/place/surabaya",
   description:
-    "Computer science student and Software engineer. I love building things and helping people. Skilled in fullstack development and interested in the world of AI and Web3.",
+    "Computer science student and Software engineer. I love inventing and building things for helping people. Skilled in fullstack web development and interested in the world of AI and Web3.",
   summary:
-    "I'am a student at SMK Negeri 2 Surabaya majoring in Software Engineering and have just been accepted into a State University through the National Selection Based on Achievement (SNBP) at the Electronic Engineering Polytechnic Institute of Surabaya in the Informatics Engineering program. I have internship experience as a Game Programmer, DevOps, and competition experience in the field of Web Development. I also have aspirations to work in Software Engineering, particularly in the fields of Backend Development and Machine Learning Engineering.",
+    "I'am a student at Electronic Engineering Polytechnic Institute of Surabaya majoring in Informatics Engineering. I have internship experience as a Game Programmer, DevOps, and competition experience in the field of Web Development and AI Innovation. I also have aspirations to work as a Web3 Engineer, AI Engineer, and Cyber Security Engineer.",
   avatarUrl: "/fieza.jpg",
   skills: [
     "React",
