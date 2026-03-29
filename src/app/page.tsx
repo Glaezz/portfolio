@@ -89,8 +89,12 @@ export default function Page() {
                     <div className="flex-grow border-t border-primary"></div>
                     <div className="flex-grow border-t border-primary"></div>
                   </div>
-                  <InteractiveHoverButton className="hidden sm:block">Resume</InteractiveHoverButton>
-                  <Button className="block sm:hidden w-full rounded-full" >Resume</Button>
+                  <a href="/CV_Fieza.pdf" target="_blank" rel="noopener noreferrer"  className="hidden sm:block">
+                    <InteractiveHoverButton>Resume</InteractiveHoverButton>
+                  </a>
+                  <a href="/CV_Fieza.pdf" target="_blank" rel="noopener noreferrer" className="w-full block sm:hidden">
+                    <Button className="rounded-full">Resume</Button>
+                  </a>
                 </div>
                 
               </div>
